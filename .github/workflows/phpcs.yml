@@ -14,5 +14,5 @@ jobs:
       - name: Install Composer dependencies
         run: composer install --prefer-dist --no-interaction
       - name: Run PHP Code Sniffer
-        run: 
-222
+        run: ls
+
